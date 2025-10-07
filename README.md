@@ -1,1 +1,1 @@
-# -Color-Switcher-HTML-CSS-JavaScript
+# Color-Switcher-HTML-CSS-JavaScript
