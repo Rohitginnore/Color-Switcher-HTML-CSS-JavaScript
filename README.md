@@ -9,11 +9,8 @@ Perfect for beginners learning **DOM manipulation**, **JavaScript events**, and 
 ---
 
 ## 🌈 Demo
-  
-![Color Switcher Screenshot](<img width="1888" height="904" alt="image" src="https://github.com/user-attachments/assets/81b54935-8faa-4443-841b-34c5258e0116" />)
-![Color Switcher Screenshot](<img width="1902" height="903" alt="image" src="https://github.com/user-attachments/assets/ee0f91a0-eb38-44cb-859c-1bcab709bfd5" />)
-![Color Switcher Screenshot](<img width="1899" height="903" alt="image" src="https://github.com/user-attachments/assets/7456fc92-3aaf-45b6-b249-9c35338bcb38" />)
-![Color Switcher Screenshot](<img width="1912" height="890" alt="image" src="https://github.com/user-attachments/assets/b6821b1a-9401-47fe-bfce-807fd7a4b9c9" />)
+  <img width="1899" height="903" alt="image" src="https://github.com/user-attachments/assets/cc0d81fc-7a32-47f1-a7ee-29bf1d6ed489" />
+
 ---
 
 ## 🚀 Features
